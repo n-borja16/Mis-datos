@@ -12,3 +12,5 @@ Twitter:@iMadeInUK
 Instagram: @arantxaa_xx
 
 Tumblr: https://arantxacollection.tumblr.com/
+
+Pinterest: https://www.pinterest.es/arantxaaylin05
