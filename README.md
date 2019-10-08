@@ -1,5 +1,6 @@
 # Mis-datos
-Nombre: Arantxa Torres
+
+<p> Nombre: Arantxa Torres </p>
 
 Edad: 18 años
 
@@ -11,6 +12,8 @@ Twitter:@iMadeInUK
 
 Instagram: @arantxaa_xx
 
-Tumblr: https://arantxacollection.tumblr.com/
+Tumblr: [Arantxa](https://arantxacollection.tumblr.com/)
 
-Pinterest: https://www.pinterest.es/arantxaaylin05
+Pinterest: [Arantxa](https://www.pinterest.es/arantxaaylin05)
+
+<img src="
